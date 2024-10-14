@@ -14,8 +14,8 @@ const Achievements: React.FC = () => {
         <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md p-6">
           <BookOpen size={32} className="mb-4 text-blue-500" />
           <h3 className="text-xl font-semibold mb-2">Academic Education</h3>
-           <p>Studied Govt. Science College tejgaon,Dhaka <br>Result : GPA-5.0</p>
-          <p>Now Pursuing a degree in Computer Science</p>
+           <p>Studied Govt. Science College tejgaon,Dhaka <br/> Result : GPA-5.0</p>
+          <p>Now Pursuing a degree in Computer Science.</p>
           <p>Bangladesh Army University of Engineering & Technology (BAUET)</p>
           <p>Expected Graduation: 30 December 2027</p>
         </div>
@@ -23,7 +23,7 @@ const Achievements: React.FC = () => {
           <Briefcase size={32} className="mb-4 text-green-500" />
           <h3 className="text-xl font-semibold mb-2">Research Platforms</h3>
           <p>Placeholder for future cybersecurity research contributions and platforms.</p>
-          <p> => Hackerone<br> => VulnHub<br> => Windows 7/8/10/11<br> => Linux<br> => Pentestlab</p>
+          <p> => Hackerone <br/> => VulnHub <br/> => Windows 7/8/10/11 <br/> => Linux <br/> => Pentestlab</p>
         </div>
       </div>
     </section>
