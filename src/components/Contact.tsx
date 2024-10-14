@@ -61,19 +61,19 @@ const Contact: React.FC = () => {
         <div className="space-y-4">
           <h3 className="text-2xl font-semibold mb-4">Connect with me</h3>
           <div className="flex items-center space-x-4">
-            <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-300 hover:text-blue-500">
+            <a href="https://github.com/S1N15T3R" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-300 hover:text-blue-500">
               <Github size={24} />
             </a>
             <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-300 hover:text-blue-500">
               <Linkedin size={24} />
             </a>
-            <a href="https://twitter.com/yourusername" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-300 hover:text-blue-500">
+            <a href="https://twitter.com/S1N1STR_007" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-300 hover:text-blue-500">
               <Twitter size={24} />
             </a>
           </div>
           <p className="flex items-center">
             <Mail size={18} className="mr-2" />
-            <a href="mailto:your.email@example.com" className="hover:text-blue-500">your.email@example.com</a>
+            <a href="mailto:your.email@example.com" className="hover:text-blue-500">vanisher303@gmail.com</a>
           </p>
         </div>
       </div>
