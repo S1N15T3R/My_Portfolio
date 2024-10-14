@@ -7,7 +7,7 @@ const About: React.FC = () => {
       <div className="flex flex-col md:flex-row items-center">
         <div className="md:w-1/3 mb-8 md:mb-0">
           <img
-            src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+            src="https://pbs.twimg.com/profile_images/1755893553555812352/gbFSzhAv.jpg"
             alt="Abdul Motalib Samir"
             className="rounded-full w-64 h-64 object-cover mx-auto"
           />
@@ -15,7 +15,11 @@ const About: React.FC = () => {
         <div className="md:w-2/3 md:pl-8">
           <h2 className="text-3xl font-bold mb-4">About Me</h2>
           <p className="mb-4">
-            I am Abdul Motalib Samir, passionate about building visually appealing websites and enhancing web security. Currently pursuing my education, I am on a journey to specialize in cybersecurity and sharpen my skills in web development.
+            Hello! I'm Abdul Motalib Samir, a dedicated cybersecurity enthusiast currently studying and working toward a career in the world of digital security. With a foundation in web development, I have a strong understanding of how applications are built, which helps me better identify and address vulnerabilities.
+
+            <br/><br/>My passion lies in exploring the latest cybersecurity techniques and tools, constantly learning new skills to stay ahead of evolving threats. Whether it's ethical hacking, secure coding, or web application security, I’m committed to growing as a cybersecurity professional and contributing to a safer, more secure internet.
+
+
           </p>
           <div className="flex space-x-4">
             <div className="flex items-center">
