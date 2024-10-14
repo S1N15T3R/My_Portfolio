@@ -2,8 +2,8 @@ import React from 'react';
 import { Code, Database, GitBranch } from 'lucide-react';
 
 const Experience: React.FC = () => {
-  const programmingLanguages = ['HTML', 'CSS', 'JavaScript', 'TypeScript'];
-  const technologies = ['React', 'Node.js', 'Git', 'VS Code', 'GitHub'];
+  const programmingLanguages = ['HTML', 'CSS', 'JavaScript', 'Python', 'C'];
+  const technologies = ['Burpsuite', 'Metasploit', 'Nmap', 'Sqlmap', 'Hashcat'];
 
   return (
     <section id="experience" className="py-16">
