@@ -22,8 +22,8 @@ const Achievements: React.FC = () => {
         <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md p-6">
           <Briefcase size={32} className="mb-4 text-green-500" />
           <h3 className="text-xl font-semibold mb-2">Research Platforms</h3>
-          <p>Placeholder for future cybersecurity research contributions and platforms.</p>
-          <p> Hackerone <br/> VulnHub <br/> Windows 7/8/10/11 <br/> Linux <br/> Pentestlab</p>
+          <p>cybersecurity research contributions and platforms</p>
+          <p> Hackerone <br/> VulnHub <br/> Exploit Database <br/> Windows 7/8/10/11 <br/> Linux <br/> Pentestlab</p>
         </div>
       </div>
     </section>
